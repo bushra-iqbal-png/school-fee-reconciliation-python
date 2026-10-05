@@ -1,0 +1,7 @@
+Student ID,Name,Invoice Amount,Payment Received,Outstanding Balance,Status,Remarks
+101,Ali Khan,5000,5000,0,Fully Paid,Normal
+102,Sara Ahmed,6000,3000,3000,Partially Paid,Normal
+103,Bilal Raza,4000,0,4000,Unpaid,Normal
+104,Zainab Ali,4500,5000,-500,Overpaid,Extra amount paid by student.
+105,Usman Ghani,3000,3000,0,Suspicious / Duplicate,Duplicate Transaction ID: TXN1001
+106,Ayesha Malik,-1500,1000,-2500,Invalid Record,Negative amount detected.

@@ -1,0 +1,7 @@
+student_id,student_name,invoice_amount,payment_received,transaction_id
+101,Ali Khan,5000,5000,TXN1001
+102,Sara Ahmed,6000,3000,TXN1002
+103,Bilal Raza,4000,0,NONE
+104,Zainab Ali,4500,5000,TXN1003
+105,Usman Ghani,3000,3000,TXN1001
+106,Ayesha Malik,-1500,1000,TXN1004
